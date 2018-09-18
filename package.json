@@ -1,0 +1,12 @@
+{
+  "name": "movelQl",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/geunheejung/movelQl.git",
+  "author": "Geuni",
+  "license": "MIT",
+  "devDependencies": {
+    "graphql-yoga": "^1.16.2"
+  }
+}
